@@ -1,4 +1,4 @@
-# 🗿 Rock Paper Scissors
+ 🗿 Rock Paper Scissors
 A simple, classic game of Rock Paper Scissors built using HTML, CSS, and JavaScript. Play against the computer and see if you can win!
 
 
@@ -26,8 +26,8 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/rock-paper-scissors.git
-(Replace your-username/rock-paper-scissors with the actual path to your repository)
+git clone = https://github.com/PARI-KSHIT/Building-Game-JS.git
+
 
 Navigate to the project directory:
 
